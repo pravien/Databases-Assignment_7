@@ -18,11 +18,11 @@
 ## Exercise 3
 ### *1. Write a safe update statement that change the repPhone column from oldNumber (say 12345678) to newNumber (say 87654321).*
 ```sql
-UPDATE CustomerOverview SET repPhone=87654321
+UPDATE CustomerOverview SET repPhone=87654321 WHERE repPhone=12345678
 ```
 ### *2. Write an update of repEmail which do not update properly (do not update it everywhere it should).*
 ```sql
-UPDATE CustomerOverview SET repPhone=87654321 WHERE repPhone=12345678
+UPDATE CustomerOverview SET repPhone=87654321
 ```
 
 ## Exercise 4
