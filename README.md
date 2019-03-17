@@ -31,3 +31,5 @@ UPDATE CustomerOverview SET repPhone=87654321
 ## Exercise 4
 ### *Draw a representation of the B+ tree with index and leaf nodes, as well as the actual table data.*
 ![tree](https://github.com/pravien/Databases-Assignment_7/blob/master/tree.png "Tree")
+
+Comparing on the root level - Checking the three initial elements which are D, E and G. Since "Handji Gifts& Co" Starts with the letter H, it is a value which is higher than all three initial values we have at the root level so we create a child node from the G element towards the right. That child node will hold all the letters which come after G in the alphabet.
