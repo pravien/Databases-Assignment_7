@@ -8,7 +8,7 @@
 
 **Second normal form:** None, beacuse the table is in the first normal form, and nothing seems to imply that a compound key is being used, so every column depends on the whole key (*customerNumber*).
 
-**Third normal form:** Transitive dependencies – *city* depends on *postalCode*.
+**Third normal form:** Transitive dependencies – *custCity* depends on *custZip*.
 
 <br><br> 
 ## Exercise 2
