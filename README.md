@@ -30,3 +30,4 @@ UPDATE CustomerOverview SET repPhone=87654321
 <br><br> 
 ## Exercise 4
 ### *Draw a representation of the B+ tree with index and leaf nodes, as well as the actual table data.*
+![tree](https://github.com/pravien/Databases-Assignment_7/blob/master/tree.png "Tree")
