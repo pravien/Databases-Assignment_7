@@ -2,7 +2,7 @@
 
 ## Exercise 1
 
-**Mention which violation there are to:**
+###**Mention which violation there are to:**
 
 **First normal form:** None, because we can use *customerNumber* as the primary key.
 
