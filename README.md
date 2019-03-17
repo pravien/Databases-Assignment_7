@@ -2,7 +2,7 @@
 
 ## Exercise 1
 
-###**Mention which violation there are to:**
+### **Mention which violation there are to:**
 
 **First normal form:** None, because we can use *customerNumber* as the primary key.
 
@@ -11,7 +11,7 @@
 **Third normal form:** Transitive dependencies – *city* depends on *postalCode*.
 
 ## Exercise 2
-**Assume we did not include the customerNumber in the table. What could be a key, and do we get the same violations of the normal forms?**
+### **Assume we did not include the customerNumber in the table. What could be a key, and do we get the same violations of the normal forms?**
 
 *customerName* could be a good alternative to the primary key, but the violations would stay the same.
 
