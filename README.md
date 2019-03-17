@@ -29,4 +29,4 @@ UPDATE CustomerOverview SET repPhone=87654321
 
 <br><br> 
 ## Exercise 4
-### *Draw a representation of of the B+ tree with index and leaf nodes, as well as the actual table data.*
+### *Draw a representation of the B+ tree with index and leaf nodes, as well as the actual table data.*
